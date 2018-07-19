@@ -1,0 +1,6 @@
+files:
+  -
+    source_path: '/HelloWorld/en.lproj/Localizable.strings'
+    ignore_path: '/HelloWorld/en.lproj/info-plist.strings'
+  -
+    source_path: '/HelloWorld/en.lproj/Localizable.strings'
